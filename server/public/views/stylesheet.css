@@ -1,0 +1,16 @@
+.btn {
+    margin: 15px auto;
+    font-size: 27px;
+}
+
+div, html {
+    background-color: #CDF5FF;
+}
+
+#winner {
+    padding: 12px;
+    font-size: 68px;
+    background-color: #5392BF;
+}
+
+
